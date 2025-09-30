@@ -902,3 +902,12 @@
     </script>
 </body>
 </html>
+<head>
+  ...
+  <!-- Google AdSense Verification -->
+  <meta name="google-site-verification" content="tu_codigo_de_verificacion_aqui" />
+  <!-- O el script de anuncios, si te dieron uno -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
+     crossorigin="anonymous"></script>
+  ...
+</head>
